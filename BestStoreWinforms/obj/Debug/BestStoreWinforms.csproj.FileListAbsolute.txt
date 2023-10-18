@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\bin\Debug\BestStoreWinforms.exe.config
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\bin\Debug\BestStoreWinforms.exe
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\bin\Debug\BestStoreWinforms.pdb
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.Form1.resources
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.Properties.Resources.resources
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.exe
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.pdb
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.ProductUC.resources
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.csproj.CopyComplete
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.Form2.resources
+C:\Users\user\source\repos\BestStoreWinforms\BestStoreWinforms\obj\Debug\BestStoreWinforms.Form3.resources
